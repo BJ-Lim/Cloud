@@ -37,8 +37,8 @@
 - 시스템 구성도</br>
 ![Style Images](https://github.com/BJ-Lim/Cloud/blob/master/captures/proposal_1.JPG)
   - (1) HTTP 페이지를 요청합니다.
-  - (2) 서버는 클라이언트로 HTTP 웹 페이지를 전송합니다.
     - 주의사항 : DNS 서버 관련된 내용은 생략되었습니다.
+  - (2) 서버는 클라이언트로 HTTP 웹 페이지를 전송합니다.
   - (3) 사용자는 웹 페이지에서 변환할 파일을 업로드합니다.
   - (4) 웹 서버는 사용자가 업로드한 파일을 수신하고, fast-transfer.py를 실행합니다.
   - (5) fast-transfer.py는 실행 후 결과 파일인 result.jpg를 반환합니다.
