@@ -31,9 +31,9 @@ tutorial    체험 과정에 대한 서류가 저장된 폴더입니다.
 code        웹 페이지 코드가 저장된 폴더입니다.
 ```
 
-## 역할
-- AWS 인스턴스 생성 및 스케일링 셋팅 / 요금 관리 / 생성 과정 캡쳐 [한승탁](https://github.com/vutyful)
-- 서버 구축(리눅스 내에서) -> tensorflow / python / fast-transfer 설치 / 웹 서버 설치 / 설치 과정 캡쳐 [김동민](https://github.com/Dongmini)
-- 깃허브 README.md로 회의록 작성 + 웹 디자인 + 발표 PPT [염희수](https://github.com/yeom-heesu)
-- 보고서 및 과제 제출 관리 + 테스트 + 튜토리얼 작성 + 전체 진행 총괄 [임병준](https://github.com/BJ-Lim)
-- 웹 페이지 기능 구현 [이헌우](https://github.com/Lee-App)
+## 팀원 및 역할
+- [임병준](https://github.com/BJ-Lim) : 보고서 및 과제 제출 관리 + 테스트 + 튜토리얼 작성 + 전체 진행 총괄 
+- [한승탁](https://github.com/vutyful) : AWS 인스턴스 생성 및 스케일링 셋팅 / 요금 관리 / 생성 과정 캡쳐 
+- [김동민](https://github.com/Dongmini) : 서버 구축(리눅스 내에서) -> tensorflow / python / fast-transfer 설치 / 웹 서버 설치 / 설치 과정 캡쳐 
+- [염희수](https://github.com/yeom-heesu) : 깃허브 README.md로 회의록 작성 + 웹 디자인 + 발표 PPT 
+- [이헌우](https://github.com/Lee-App) : 웹 페이지 기능 구현 
