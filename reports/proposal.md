@@ -16,7 +16,8 @@
 ## 개발목표
 - '내 사진'을 특정한 '명화'의 스타일로 바꿀 수 있는 서비스를 제공하는 웹 서버 만들기
 - 예시</br>
-![Style Images](https://github.com/BJ-Lim/Cloud/blob/master/captures/proposal_2.JPG)
+![Style Images](https://github.com/BJ-Lim/Cloud/blob/master/captures/proposal_2.JPG)</br>
+위 사진은 [Link](https://github.com/ShafeenTejani/fast-style-transfer/blob/master/README.md)를 참조했습니다.
 
 ## 개발/구현 내용
 - AWS
