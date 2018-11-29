@@ -13,10 +13,35 @@
 느꼈으면 좋겠습니다.
 ```
 
-## 개발목표 및 개발/구현 내용
+## 개발목표
+- '내 사진'을 특정한 '명화'의 스타일로 바꿀 수 있는 서비스를 제공하는 웹 서버 만들기
+- 예시</br>
+![Style Images](https://github.com/BJ-Lim/Cloud/blob/master/captures/proposal_2.JPG)
+
+## 개발/구현 내용
+- AWS
+  - 인스턴스 생성 : Ubuntu 18.04 LTS
+  - (필요하다면)스케일링 셋팅
+  - 요금 관리
+- 서버 구축 및 플랫폼 설치
+  - tensorflow
+  - python
+  - fast-transfer
+  - 웹 서버 설치
+- 웹 페이지
+  - 기능 구현
+  - 디자인
 
 ## 서비스의 시스템 구성도
-
+- 시스템 구성도</br>
+![Style Images](https://github.com/BJ-Lim/Cloud/blob/master/captures/proposal_1.JPG)
+  - (1) HTTP 페이지를 요청합니다.
+  - (2) 서버는 클라이언트로 HTTP 웹 페이지를 전송합니다.
+    - 주의사항 : DNS 서버 관련된 내용은 생략되었습니다.
+  - (3) 사용자는 웹 페이지에서 변환할 파일을 업로드합니다.
+  - (4) 웹 서버는 사용자가 업로드한 파일을 수신하고, fast-transfer.py를 실행합니다.
+  - (5) fast-transfer.py는 실행 후 결과 파일인 result.jpg를 반환합니다.
+  - (6),(7) 웹 서버는 (5)에서 생성된 파일인 result.jpg를 사용자에게 전송합니다.
 
 ## 기대효과 및 활용방안
 - 사람들이 AWS를 직접 사용하여 서버를 구축해보고, 생각보다 어렵지 않다는 것을 느낄 수 있다.
