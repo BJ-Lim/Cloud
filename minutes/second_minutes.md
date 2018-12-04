@@ -20,3 +20,7 @@
  
   1. CUDA,CUDNN,tansorflow가 설치되어있는 환경에서 GPU (16GB)설치
   2. 파일 전송 방법은 filezilla를 사용
+
+ ### 4. 해결해야 하지 않는 문제
+
+  1. 502 bad gateway 
