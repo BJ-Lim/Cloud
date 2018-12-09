@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="ko">
+<title>이미지 변환</title>
+<meta charset="utf-8" />
+<link rel="stylesheet" href="styles.css">
+
+<body>
+<header>
+    <h1>이미지 명화 풍 변환</h1>
+</header>
+<form enctype="multipart/form-data" action="upload.php" method="POST">
+    <input type="hidden" name="MAX_FILE_SIZE" value="30000" />
+    변환할 이미지 : <input name="upload_file" type="file" />
+    <input type="submit" value="파일 전송" />
+</form>
+</body>
+</html>
