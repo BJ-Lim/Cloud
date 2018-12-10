@@ -2,7 +2,7 @@
 - 이 과정은 인스턴스를 생성하고 인스턴스에 접속하는 과정입니다.
 - 인스턴스에 접속하기 위해서는 PuTTY가 필요합니다.
 
-##인스턴스 생성에 앞서
+## 인스턴스 생성에 앞서
 해당 인스턴스는 프리티어로는 생성할 수 없기 때문에 우선 지원 신청을 해야합니다.
 ![Style Images](https://github.com/BJ-Lim/Cloud/blob/master/captures/setup_01.jpg)</br>
 AWS Management Console 화면의 우측 상단 지원 탭에 있는 '지원 센터'를 클릭합니다.
