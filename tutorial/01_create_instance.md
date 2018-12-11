@@ -31,13 +31,13 @@ AWS 서비스의 EC2 항목으로 들어갑니다.
 ![Style Images](https://github.com/BJ-Lim/Cloud/blob/master/captures/Select_AMI.png)</br>
 좌측 메뉴에서 'AWS Marketplace'를 선택하고 'machine learning ami'를 검색하여 'Deep Learning AMI (Ubuntu)'를 선택합니다.
 
-![Style Images](https://github.com/BJ-Lim/Cloud/blob/master/captures/instance_03_2.jpg)</br>
+![Style Images](https://github.com/BJ-Lim/Cloud/blob/master/captures/instance_03_3.jpg)</br>
 인스턴스 유형을 선택하고 아래의 검토 및 시작 버튼을 클릭합니다.
 
-![Style Images](https://github.com/BJ-Lim/Cloud/blob/master/captures/instance_08.PNG)</br>
+![Style Images](https://github.com/BJ-Lim/Cloud/blob/master/captures/instance_08_2.PNG)</br>
 검토화면에서 자신이 선택한 인스턴스와 AMI가 맞는지 확인하고 시작버튼을 클릭니다.
 
-![Style Images](https://github.com/BJ-Lim/Cloud/blob/master/captures/instance_09.PNG)</br>
+![Style Images](https://github.com/BJ-Lim/Cloud/blob/master/captures/instance_09_2.PNG)</br>
 키 페어 선택 화면에서 기존 키 페어 선택 후 이전단계에서 생성한 키 페어를 선택합니다.
 
 ![Style Images](https://github.com/BJ-Lim/Cloud/blob/master/captures/instance_10.PNG)</br>
