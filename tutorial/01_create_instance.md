@@ -31,7 +31,7 @@ AWS 서비스의 EC2 항목으로 들어갑니다.
 ![Style Images](https://github.com/BJ-Lim/Cloud/blob/master/captures/Select_AMI.png)</br>
 좌측 메뉴에서 'AWS Marketplace'를 선택하고 machine learning ami를 검색하여 'Deep Learning AMI (Ubuntu)를 선택합니다.
 
-![Style Images](https://github.com/BJ-Lim/Cloud/blob/master/captures/instance_03.PNG)</br>
+![Style Images](https://github.com/BJ-Lim/Cloud/blob/master/captures/instance_03_2.jpg)</br>
 인스턴스 유형을 선택하고 아래의 검토 및 시작 버튼을 클릭합니다.
 
 ![Style Images](https://github.com/BJ-Lim/Cloud/blob/master/captures/instance_08.PNG)</br>
