@@ -1,17 +1,39 @@
-<!DOCTYPE html>
+﻿<!DOCTYPE html>
 <html lang="ko">
 <title>이미지 변환</title>
+
 <meta charset="utf-8" />
 <link rel="stylesheet" href="styles.css">
-
 <body>
+<a href="https://github.com/BJ-Lim/Cloud"><img src="git.png" width="110px" height="50px"></a> 
 <header>
-    <h1>이미지 명화 풍 변환</h1>
+    <h1 align="center">이미지 명화 풍 변환</h1>
 </header>
-<form enctype="multipart/form-data" action="upload.php" method="POST">
+
+<div>
+<img src="The starry night.jpg"  width="200px" height="200px">
+<h3 align="center">The Starry Night,<br> Vincent van Gogh</h3>
+</div>
+<div>
+<img src="portrait of dora maar.jpg" width="200px" height="200px">
+<h3 align="center">Portrait of Dora Maar,<br> Pablo Picasso</h3>
+</div>
+<div>
+<img src="rain princess.jpg" width="200px" height="200px">
+<h3 align="center">Rain Princess,<br> Leonid Aframov</h3>
+</div>
+
+
+<form enctype="multipart/form-data" action="upload2.php" method="POST">
     <input type="hidden" name="MAX_FILE_SIZE" value="30000" />
-    변환할 이미지 : <input name="upload_file" type="file" />
+     <input name="upload_file" type="file" />
+	<select name="option" >
+        <option value="dora-marr-network">[The Starry Night, Vincent van Gogh]</option>
+        <option value="rain-princess-network">[Portrait of Dora Maar, Pablo Picasso]</option>
+        <option value="starry-night-network">[Rain Princess, Leonid Aframov]</option>
+        </select>
     <input type="submit" value="파일 전송" />
 </form>
+<a href="https://github.com/ShafeenTejani/fast-style-transfer/blob/master/README.md"><img src="reference.png" align="right" width="100px" height="50px"></a> 
 </body>
 </html>
