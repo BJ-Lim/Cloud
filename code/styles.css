@@ -1,0 +1,54 @@
+﻿body{
+    display: table-cell;
+    vertical-align: middle;
+    background-color: #4286f4 ;
+    font-family: "Fantasy";
+    color : white;
+    position: relative;
+}
+
+html {
+	display: table;
+	margin: auto;
+}
+
+html, body {
+	height: 100%;
+	background-color: "white" ;
+}
+
+input[type=text]{
+	width : 98%;
+	font-family: "Comic Sans MS";
+}
+div{
+	border: 1px solid #4286f4;
+	float: left;
+	width: 33%;
+
+
+}
+
+
+input[type=submit],input[type=file],select{
+	background-color : #4286f4;
+	border: 3px solid #fff;
+	border-radius: 5px;
+	color: #fff;
+	display: block;
+	font-size: 1.2em;
+	font-weight: bold;
+	margin: 1em auto;
+  
+	position: relative;
+	text-transform: uppercase;
+
+
+}
+
+
+
+
+
+
+
