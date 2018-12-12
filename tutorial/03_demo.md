@@ -26,4 +26,33 @@
 
 사용자에게 다운이 되며, 사용자는 결과를 보고 원하는 명화 풍을 선택하면 됩니다.
 
+## 파일 확장자
+
+ex)pdf
+
+<div>
+  <img width="600" src="https://user-images.githubusercontent.com/30786827/49881907-c636b100-fe72-11e8-8abe-fa6a6c6f89af.PNG">
+</div>
+
+ex)gif
+
+<div>
+  <img width="600" src="https://user-images.githubusercontent.com/30786827/49881907-c636b100-fe72-11e8-8abe-fa6a6c6f89af.PNG">
+</div>
+
+ex)jpg
+
+<div>
+  <img width="600" src="https://user-images.githubusercontent.com/30786827/49881907-c636b100-fe72-11e8-8abe-fa6a6c6f89af.PNG">
+</div>
+
+ex)png
+
+<div>
+  <img width="600" src="https://user-images.githubusercontent.com/30786827/49881907-c636b100-fe72-11e8-8abe-fa6a6c6f89af.PNG">
+</div>
+
+파일이 출력되서 저장된 파일을 확인 해 보면 알 수 있듯이,
+파일 확장자는 이미지 형식이라면 어떤 것이라도 결과를 그 확장자에 맞게 반환을 해줍니다.
+
 
