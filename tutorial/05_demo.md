@@ -84,7 +84,7 @@
 
 각각의 명화이미지를 자신의 사진과 합성하여 보여줍니다. 마음에 드는 사진을 선택하여 갖고계시면 됩니다.
 
-## 그 외의 웹 페이지 기능(Our git, reference)
+## 그 외의 웹 페이지 기능(Our git, Reference)
 
 #### Our git
 
@@ -98,13 +98,13 @@ Our git이라는 버튼을 누르시면, 저희 클라우드 컴퓨팅 3팀 프�
   <img width="600" src="https://user-images.githubusercontent.com/30786827/49933628-7eb23280-ff0f-11e8-9e64-772530215d55.PNG">
 </div>
 
-#### reference
+#### Reference
 
 <div>
   <img width="600" src="https://user-images.githubusercontent.com/30786827/49933226-6db4f180-ff0e-11e8-9469-68238257649c.png">
 </div>
 
-reference 이라는 버튼을 누르시면, 저희가 사용한 fase-style-transfer 에 대해 참고하실 수 있습니다.
+Reference 이라는 버튼을 누르시면, 저희가 사용한 fase-style-transfer 에 대해 참고하실 수 있습니다.
 
 <div>
   <img width="600" src="https://user-images.githubusercontent.com/30786827/49933629-7f4ac900-ff0f-11e8-88e0-259c49005fb1.PNG">
