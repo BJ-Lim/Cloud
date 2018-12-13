@@ -97,3 +97,6 @@ Open버튼을 클릭하면 login as: 화면이 뜹니다.</br>
 ![Style Images](https://github.com/BJ-Lim/Cloud/blob/master/captures/instance_Stopped.PNG)</br>
 인스턴스 상태에 stopped라고 나온다면 성공적으로 정지된 것입니다.</br>
 인스턴스를 켜놓을 경우 사용하지 않더라도 과금될 수 있기 때문에 사용이 끝나면 꼭 꺼야합니다.
+
+## 다음
+2. [파일 옮기기](https://github.com/BJ-Lim/Cloud/blob/master/tutorial/02_move_files.md)
