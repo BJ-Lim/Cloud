@@ -46,13 +46,15 @@ Apache2라는 웹 서버를 설치하기전에 현재 서버에 설치된 패키
   <img width="400" src="https://user-images.githubusercontent.com/30786827/49925059-3be65f80-fefb-11e8-8250-f7437874e66d.jpg">
 </div>
 
-이제 페이지에 들어가기 위해 php7을 설치합니다. 우리가 하는 ubuntu의 버전은 18.04이므로 php 최신 버전을 설치합니다.
+이제 페이지에 들어가기 위해 php7을 설치합니다.</br>
+우리가 하는 ubuntu의 버전은 18.04이므로 php 최신 버전을 설치합니다.
 
 <div>
   <img width="400" src="https://user-images.githubusercontent.com/30786827/49925067-3e48b980-fefb-11e8-97f2-e056939a51fd.jpg">
 </div>
 
-그 다음으로, 아파치 모듈과 연동 하기 위해 명령어를 사용 합니다. php 설치를 한 후 버전이 7.2이므로 7.2를 씁니다.
+그 다음으로, 아파치 모듈과 연동 하기 위해 명령어를 사용 합니다.</br>
+php 설치를 한 후 버전이 7.2이므로 7.2를 씁니다.
 
 <div>
   <img width="400" src="https://user-images.githubusercontent.com/30786827/49925071-40127d00-fefb-11e8-9c00-fd297a24a121.jpg">
@@ -88,7 +90,8 @@ Apache2라는 웹 서버를 설치하기전에 현재 서버에 설치된 패키
 
 그 다음으로 php 권한을 설정합니다.
 
-권한을 설정하는 이유는 웹 서비스 구동시 발생할 수 있는 Nobody 퍼미션 관련 문제를 해결하기 위해 관련 프로그램을 설치합니다.
+권한을 설정하는 이유는</br>
+웹 서비스 구동시 발생할 수 있는 Nobody 퍼미션 관련 문제를 해결하기 위해 관련 프로그램을 설치합니다.
 이 세팅을 하면 shell의 권한, stfp의 권한 web의 권한이 동일하게 취급되며 보안도 좋게 됩니다.
 
 <div>
@@ -99,8 +102,8 @@ Apache2라는 웹 서버를 설치하기전에 현재 서버에 설치된 패키
   <img width="400" src="https://user-images.githubusercontent.com/30786827/49925082-47398b00-fefb-11e8-8ca0-60403bc64ea1.jpg">
 </div>
 
-그 다음으로 웹페이지에서 파일업로드 구현을 할 시 이 확장자 파일을 제대로 막아주지 못하면 사이트가 위험해지므로
-.php를 제외한 나머지의 접근을 차단해야 합니다.
+그 다음으로 웹페이지에서 파일업로드 구현을 할 시</br>
+이 확장자 파일을 제대로 막아주지 못하면 사이트가 위험해지므로 .php를 제외한 나머지의 접근을 차단해야 합니다.
 
 <div>
   <img width="400" src="https://user-images.githubusercontent.com/30786827/49925083-47d22180-fefb-11e8-8caa-5e9107fabafe.jpg">
