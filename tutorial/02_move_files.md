@@ -34,10 +34,14 @@
 ## 코드
 
 저희가 웹 서버를 구축하기 위해 만든 코드와 웹 페이지를 디자인한 코드입니다.
+저희의 가상서버에서 이 명령어를 이용하여 보실 수 있습니다.
 
 cd /var/www/html/
-
-sudo wget https://raw.githubusercontent.com/BJ-Lim/Cloud/master/code/upload.php https://raw.githubusercontent.com/BJ-Lim/Cloud/master/code/download.php https://raw.githubusercontent.com/BJ-Lim/Cloud/master/code/styles.css https://raw.githubusercontent.com/BJ-Lim/Cloud/master/code/index.html
+sudo wget 
+https://raw.githubusercontent.com/BJ-Lim/Cloud/master/code/upload.php 
+https://raw.githubusercontent.com/BJ-Lim/Cloud/master/code/download.php 
+https://raw.githubusercontent.com/BJ-Lim/Cloud/master/code/styles.css 
+https://raw.githubusercontent.com/BJ-Lim/Cloud/master/code/index.html
   
 
 ## 다음
