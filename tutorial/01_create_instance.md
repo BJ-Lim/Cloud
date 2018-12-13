@@ -8,7 +8,7 @@
 AWS Management Console 화면의 우측 상단 지원 탭에 있는 '지원 센터'를 클릭합니다.
 ![Style Images](https://github.com/BJ-Lim/Cloud/blob/master/captures/setup_02.jpg)</br>
 지원 센터에서 'Create case'버튼을 눌러 작성 화면으로 넘어갑니다.
-![Style Images](https://github.com/BJ-Lim/Cloud/blob/master/captures/setup_03.jpg)</br>
+![Style Images](https://github.com/BJ-Lim/Cloud/blob/master/captures/setup_03_t2.PNG)</br>
 'Service Limit Increase'를 선택하고 'EC2 Instances'를 선택한 후 자신이 생성할 지역과 운용할 인스턴스 타입을 선택하여 작성합니다.
 
 신청에 대한 응답은 약 5~10분 정도 소요됩니다.
