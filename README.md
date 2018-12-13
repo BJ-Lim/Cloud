@@ -17,6 +17,8 @@
 
 ## 회의록
 - [1차 회의](https://github.com/BJ-Lim/Cloud/blob/master/minutes/first_minutes.md) : 2018.11.29(목) 22:00~23:00 / 카카오톡 회의
+- [2차 회의](https://github.com/BJ-Lim/Cloud/blob/master/minutes/second_minutes.md) : 2018.12.04(화) 11:00~13:00
+- [3차 회의](https://github.com/BJ-Lim/Cloud/blob/master/minutes/third_minutes.md) : 2018.12.12(화) 20:00~23:00 / 카카오톡 회의
 
 ## 코드
 다음은 웹 서버의 코드입니다.
