@@ -3,85 +3,55 @@
 
 ## 첫 화면 
 
-<div>
-  <img width="600" src="https://user-images.githubusercontent.com/30786827/49931457-3e9c8100-ff0a-11e8-8739-b267d16e7974.PNG">
-</div>  </br>
+![Style Images](https://github.com/BJ-Lim/Cloud/blob/master/captures/demo_00.png)</br></br>
 
 위와 같이 사진을 고를 수 있는 웹 페이지가 제공됩니다. </br>
 원본 사진에 명화 풍으로 변환 시켜줄 수 있는 이미지 3개중 하나를 선택하여 명화로 만듭니다.
 ## 파일 선택 
 
-<div>
-  <img width="600" src="https://user-images.githubusercontent.com/30786827/49931468-40664480-ff0a-11e8-9781-25dafbe53ab4.PNG">
-</div>
+![Style Images](https://github.com/BJ-Lim/Cloud/blob/master/captures/demo_01.png)</br></br>
 
-<div>
-  <img width="600" src="https://user-images.githubusercontent.com/30786827/49931473-42c89e80-ff0a-11e8-9c94-f59acca21872.PNG">
-</div>
+![Style Images](https://github.com/BJ-Lim/Cloud/blob/master/captures/demo_02.png)</br></br>
 
-<div>
-  <img width="600" src="https://user-images.githubusercontent.com/30786827/49931472-42c89e80-ff0a-11e8-91a9-209770a55902.PNG">
-</div>
-
+![Style Images](https://github.com/BJ-Lim/Cloud/blob/master/captures/demo_03.png)</br></br>
 
 파일선택 박스를 누르신 후 이미지 사진 하나를 열기를 눌러 가져옵니다. </br>
 그 다음, 파일 전송을 누르시면 로딩이 되고있음을 알 수 있습니다.
 
 ## 파일 로딩 및 결과 
 
+![Style Images](https://github.com/BJ-Lim/Cloud/blob/master/captures/demo_04.png)</br></br>
 
-<div>
-  <img width="600" src="https://user-images.githubusercontent.com/30786827/49931472-42c89e80-ff0a-11e8-91a9-209770a55902.PNG">
-</div> 
-</br>
-<div>
-  <img width="600" src="https://user-images.githubusercontent.com/30786827/49931481-46f4bc00-ff0a-11e8-812e-396eb3f9e50c.PNG">
-</div>
-</br>
-<div>
-  <img width="600" src="https://user-images.githubusercontent.com/30786827/49931492-4cea9d00-ff0a-11e8-886a-ad617f5b9bb0.jpg">
-</div>
-</br>
+![Style Images](https://github.com/BJ-Lim/Cloud/blob/master/captures/demo_05.png)</br></br>
+
+![Style Images](https://github.com/BJ-Lim/Cloud/blob/master/captures/demo_07_2.png)</br></br>
+
 웹 서버의 주소가 나오며 응답을 기다리라는 말이 나온 후, 파일 결과창이 나옵니다.</br>
 그 파일을 클릭하시면 결과를 보실 수 있습니다.
 
 ## 명화 이미지 데모
 
-<div>
-  <img width="600" src="https://user-images.githubusercontent.com/30786827/49931484-49efac80-ff0a-11e8-9b3a-4f3c5025894d.png">
-</div>
+![Style Images](https://github.com/BJ-Lim/Cloud/blob/master/captures/demo_06.png)</br></br>
 
 이 화면에서 명화 이미지를 선택할 수 있습니다.
 
 #### (1)첫 번째 명화 이미지(THE STARRY NIGHT, VINCENT VAN GOGH) </br>
 
-<div>
-  <img width="600" src="https://user-images.githubusercontent.com/30786827/49932252-e797ab80-ff0b-11e8-8c99-fbf6a1579f4a.PNG">
-</div>
+![Style Images](https://github.com/BJ-Lim/Cloud/blob/master/captures/demo_07_1.png)</br></br>
 
-<div>
-  <img width="600" src="https://user-images.githubusercontent.com/30786827/49931492-4cea9d00-ff0a-11e8-886a-ad617f5b9bb0.jpg">
-</div>
+![Style Images](https://github.com/BJ-Lim/Cloud/blob/master/captures/demo_07_2.png)</br></br>
 
 #### (2)두 번째 명화 이미지(POTRAIT OF DORA MAAR, PABLO PICASSO) </br>
 
-<div>
-  <img width="600" src="https://user-images.githubusercontent.com/30786827/49933499-1e22f580-ff0f-11e8-87f3-47796f4724a6.PNG">
-</div>
+![Style Images](https://github.com/BJ-Lim/Cloud/blob/master/captures/demo_08_1.png)</br></br>
 
-<div>
-  <img width="600" src="https://user-images.githubusercontent.com/30786827/49931501-53791480-ff0a-11e8-9173-4f795dd8006f.jpg">
-</div>
+![Style Images](https://github.com/BJ-Lim/Cloud/blob/master/captures/demo_08_2.png)</br></br>
 
 #### (3)세 번째 명화 이미지(RAIN PRINCESS, LEONID AFRAMOV) </br>
 
-<div>
-  <img width="600" src="https://user-images.githubusercontent.com/30786827/49932073-8079f700-ff0b-11e8-9c84-456caa424291.PNG">
-</div>
+![Style Images](https://github.com/BJ-Lim/Cloud/blob/master/captures/demo_09_1.png)</br></br>
 
-<div>
-  <img width="600" src="https://user-images.githubusercontent.com/30786827/49931509-56740500-ff0a-11e8-922e-f9a35cf764d9.jpg">
-</div>
+![Style Images](https://github.com/BJ-Lim/Cloud/blob/master/captures/demo_09_2.png)</br></br>
 
 각각의 명화이미지를 자신의 사진과 합성하여 보여줍니다. </br>
 마음에 드는 사진을 선택하여 갖고계시면 됩니다.
@@ -90,27 +60,19 @@
 
 #### Our git
 
-<div>
-  <img width="600" src="https://user-images.githubusercontent.com/30786827/49933225-6c83c480-ff0e-11e8-9f33-87805c4b0e5a.png">
-</div>
+![Style Images](https://github.com/BJ-Lim/Cloud/blob/master/captures/demo_10.png)</br></br>
 
 Our git이라는 버튼을 누르시면, 저희 클라우드 컴퓨팅 3팀 프로젝트의 git hub 홈페이지로 이동을 하게 됩니다.
 
-<div>
-  <img width="600" src="https://user-images.githubusercontent.com/30786827/49933628-7eb23280-ff0f-11e8-9e64-772530215d55.PNG">
-</div>
+![Style Images](https://github.com/BJ-Lim/Cloud/blob/master/captures/demo_12.png)</br></br>
 
 #### Reference
 
-<div>
-  <img width="600" src="https://user-images.githubusercontent.com/30786827/49933226-6db4f180-ff0e-11e8-9469-68238257649c.png">
-</div>
+![Style Images](https://github.com/BJ-Lim/Cloud/blob/master/captures/demo_11.png)</br></br>
 
 Reference 이라는 버튼을 누르시면, 저희가 사용한 fase-style-transfer 에 대해 참고하실 수 있습니다.
 
-<div>
-  <img width="600" src="https://user-images.githubusercontent.com/30786827/49933629-7f4ac900-ff0f-11e8-88e0-259c49005fb1.PNG">
-</div>
+![Style Images](https://github.com/BJ-Lim/Cloud/blob/master/captures/demo_13.png)</br></br>
 
 
 
