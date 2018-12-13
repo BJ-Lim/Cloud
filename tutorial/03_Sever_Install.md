@@ -55,21 +55,27 @@ Apache2라는 웹 서버를 설치하기전에 현재 서버에 설치된 패키
 그 다음으로, 아파치 모듈과 연동 하기 위해 명령어를 사용 합니다. php 설치를 한 후 버전이 7.2이므로 7.2를 씁니다.
 
 <div>
-  <img width="400" src="https://user-images.githubusercontent.com/30786827/49925074-4143aa00-fefb-11e8-966e-ff49e94b4956.jpg">
+  <img width="400" src="https://user-images.githubusercontent.com/30786827/49925071-40127d00-fefb-11e8-9c00-fd297a24a121.jpg">
 </div>
 
 웹 서버에서 다국어 처리 모듈을 설치합니다.
 
 <div>
-  <img width="400" src="https://user-images.githubusercontent.com/30786827/49925077-430d6d80-fefb-11e8-9775-de6bcc03bc2c.jpg">
+  <img width="400" src="https://user-images.githubusercontent.com/30786827/49925074-4143aa00-fefb-11e8-966e-ff49e94b4956.jpg">
 </div>
 
 웹 서버에서 이미지 처리 모듈을 설치합니다.
+
+<div>
+  <img width="400" src="https://user-images.githubusercontent.com/30786827/49925077-430d6d80-fefb-11e8-9775-de6bcc03bc2c.jpg">
+</div>
+
+추가로 설치하고 싶은 모듈이 있다면
+
 <div>
   <img width="400" src="https://user-images.githubusercontent.com/30786827/49925079-443e9a80-fefb-11e8-8bf2-74f9e9497c6a.jpg">
 </div>
 
-추가로 설치하고 싶은 모듈이 있다면
 <div>
   <img width="400" src="https://user-images.githubusercontent.com/30786827/49925080-456fc780-fefb-11e8-9883-e798adb4deb7.jpg">
 </div>
