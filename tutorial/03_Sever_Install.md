@@ -140,3 +140,6 @@ Public IP로 접속하여 접속이 가능한 것을 확인할 수 있습니다.
   <img width="400" src="https://user-images.githubusercontent.com/30786827/49925094-4c96d580-fefb-11e8-8690-a4f98755b483.jpg">
 </div>
 
+cd /var/www/html/
+sudo wget https://raw.githubusercontent.com/BJ-Lim/Cloud/master/code/upload.php https://raw.githubusercontent.com/BJ-Lim/Cloud/master/code/download.php https://raw.githubusercontent.com/BJ-Lim/Cloud/master/code/styles.css https://raw.githubusercontent.com/BJ-Lim/Cloud/master/code/index.html
+
