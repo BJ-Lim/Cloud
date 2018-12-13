@@ -55,43 +55,64 @@ Apache2라는 웹 서버를 설치하기전에 현재 서버에 설치된 패키
 그 다음으로, 아파치 모듈과 연동 하기 위해 명령어를 사용 합니다. php 설치를 한 후 버전이 7.2이므로 7.2를 씁니다.
 
 <div>
-  <img width="400" src="https://user-images.githubusercontent.com/30786827/49925071-40127d00-fefb-11e8-9c00-fd297a24a121.jpg">
+  <img width="400" src="https://user-images.githubusercontent.com/30786827/49925074-4143aa00-fefb-11e8-966e-ff49e94b4956.jpg">
 </div>
 
 웹 서버에서 다국어 처리 모듈을 설치합니다.
 
 <div>
-  <img width="400" src="https://user-images.githubusercontent.com/30786827/49925071-40127d00-fefb-11e8-9c00-fd297a24a121.jpg">
+  <img width="400" src="https://user-images.githubusercontent.com/30786827/49925077-430d6d80-fefb-11e8-9775-de6bcc03bc2c.jpg">
+</div>
+
+웹 서버에서 이미지 처리 모듈을 설치합니다.
+<div>
+  <img width="400" src="https://user-images.githubusercontent.com/30786827/49925079-443e9a80-fefb-11e8-8bf2-74f9e9497c6a.jpg">
+</div>
+
+추가로 설치하고 싶은 모듈이 있다면
+<div>
+  <img width="400" src="https://user-images.githubusercontent.com/30786827/49925080-456fc780-fefb-11e8-9883-e798adb4deb7.jpg">
+</div>
+
+이 명령어를 사용하여 사용하고 싶은 모듈을 설치하면 됩니다.
+
+적용을 하기 위해 아파치를 재 시작 합니다. 그 다음 php 버전을 확인합니다.
+<div>
+  <img width="400" src="https://user-images.githubusercontent.com/30786827/49925081-46a0f480-fefb-11e8-9c06-10e44b941f1c.jpg">
+</div>
+
+그 다음으로 php 권한을 설정합니다.
+
+권한을 설정하는 이유는 웹 서비스 구동시 발생할 수 있는 Nobody 퍼미션 관련 문제를 해결하기 위해 관련 프로그램을 설치합니다.
+이 세팅을 하면 shell의 권한, stfp의 권한 web의 권한이 동일하게 취급되며 보안도 좋게 됩니다.
+
+<div>
+  <img width="400" src="https://user-images.githubusercontent.com/30786827/49925082-47398b00-fefb-11e8-8ca0-60403bc64ea1.jpg">
 </div>
 <div>
-  <img width="400" src="https://user-images.githubusercontent.com/30786827/49924740-64ba2500-fefa-11e8-8b7a-946b4f2b46e3.png">
+  <img width="400" src="https://user-images.githubusercontent.com/30786827/49925083-47d22180-fefb-11e8-8caa-5e9107fabafe.jpg">
+</div>
+
+그 다음으로 웹페이지에서 파일업로드 구현을 할 시 이 확장자 파일을 제대로 막아주지 못하면 사이트가 위험해지므로
+.php를 제외한 나머지의 접근을 차단해야 합니다.
+<div>
+  <img width="400" src="https://user-images.githubusercontent.com/30786827/49925085-486ab800-fefb-11e8-9a6d-2f216ffe517e.jpg">
 </div>
 <div>
-  <img width="400" src="https://user-images.githubusercontent.com/30786827/49924740-64ba2500-fefa-11e8-8b7a-946b4f2b46e3.png">
+  <img width="400" src="https://user-images.githubusercontent.com/30786827/49925088-49034e80-fefb-11e8-91e1-db1ed49b7c65.jpg">
+</div>
+
+접근을 막기 위해 중간에 코드를 추가합니다.
+<div>
+  <img width="400" src="https://user-images.githubusercontent.com/30786827/49925089-499be500-fefb-11e8-92cb-2ac47b3172ad.jpg">
 </div>
 <div>
-  <img width="400" src="https://user-images.githubusercontent.com/30786827/49924740-64ba2500-fefa-11e8-8b7a-946b4f2b46e3.png">
+  <img width="400" src="https://user-images.githubusercontent.com/30786827/49925092-4bfe3f00-fefb-11e8-9a23-765b26066ed3.jpg">
 </div>
+
+적용을 위해 아파치를 재 시작합니다.
 <div>
-  <img width="400" src="https://user-images.githubusercontent.com/30786827/49924740-64ba2500-fefa-11e8-8b7a-946b4f2b46e3.png">
-</div>
-<div>
-  <img width="400" src="https://user-images.githubusercontent.com/30786827/49924740-64ba2500-fefa-11e8-8b7a-946b4f2b46e3.png">
-</div>
-<div>
-  <img width="400" src="https://user-images.githubusercontent.com/30786827/49924740-64ba2500-fefa-11e8-8b7a-946b4f2b46e3.png">
-</div>
-<div>
-  <img width="400" src="https://user-images.githubusercontent.com/30786827/49924740-64ba2500-fefa-11e8-8b7a-946b4f2b46e3.png">
-</div>
-<div>
-  <img width="400" src="https://user-images.githubusercontent.com/30786827/49924740-64ba2500-fefa-11e8-8b7a-946b4f2b46e3.png">
-</div>
-<div>
-  <img width="400" src="https://user-images.githubusercontent.com/30786827/49924740-64ba2500-fefa-11e8-8b7a-946b4f2b46e3.png">
-</div>
-<div>
-  <img width="400" src="https://user-images.githubusercontent.com/30786827/49924740-64ba2500-fefa-11e8-8b7a-946b4f2b46e3.png">
+  <img width="400" src="https://user-images.githubusercontent.com/30786827/49925094-4c96d580-fefb-11e8-8690-a4f98755b483.jpg">
 </div>
 
 
