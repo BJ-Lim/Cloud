@@ -1,32 +1,23 @@
 <?php
-$upload_dir = '/var/www/uploads/';
-$upload_file = $upload_dir . basename($_FILES['upload_file']['name']);
+$option = $_POST["option"];
 
-echo '<pre>';
-if (move_uploaded_file($_FILES['upload_file']['tmp_name'], $upload_file)) {
-    //
-} else {
-    // error
-}
+$file_name = basename($_FILES['upload_file']['name']);
+$upload_dir = '/var/www/uploads/';
+$upload_file = $upload_dir . $file_name;
+
+move_uploaded_file($_FILES['upload_file']['tmp_name'], $upload_file);
 
 print_r($_FILES);
 
-print "</pre>";
+$py_arg_path = '/home/ubuntu/fst/';
+$py_file_path = $py_arg_path . 'fast-style-transfer-master/stylize_image.py';
+$py_network_path = $py_arg_path . 'pretrained-networks/';
 
-// tf 명령어
+$var = "python {$py_file_path} ";
+$var .= "--content {$upload_file} ";
+$var .= "--network-path {$py_network_path}{$option} ";
+$var .= "--output-path {$upload_dir}output_{$file_name} 2>&1";
 
-$file_path = $upload_file;
-$file_type = $_FILES['upload_file']['type'];
-$file_size = $_FILES['upload_file']['size'];
-$file_name = basename($_FILES['upload_file']['name']);
+passthru($var);
 
-header("Pragma: public");
-header("Expires: 0");
-header("Content-Type: " . $file_type);
-header("Content-Disposition: attachment; filename='$file_name'");
-header("Content-Transfer-Encoding: binary");
-header("Content-Length: $file_size");
-
-ob_clean();
-flush();
-readfile($file_path);
+header("location: download.php?file_name={$file_name}");
