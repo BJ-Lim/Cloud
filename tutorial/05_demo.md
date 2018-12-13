@@ -1,7 +1,7 @@
 ## 개요
 #### 웹 서버에서 이미지를 선택하여 명화를 만드는 것을 테스트 해보는 튜토리얼입니다. </br>
 
-## 데모 
+## 필요 파일 업로드 및 스타일 선택
 ![Style Images](https://github.com/BJ-Lim/Cloud/blob/master/captures/demo_00.png)</br>
 위와 같이 사진을 업로드할 수 있는 웹페이지가 제공됩니다. </br>
 원본 사진을 3가지 종류의 명화 스타일로 변환시킬 수 있습니다.</br></br>
@@ -13,28 +13,20 @@
 원하는 스타일의 명화를 선택합니다.</br></br>
 ![Style Images](https://github.com/BJ-Lim/Cloud/blob/master/captures/demo_03.png)</br>
 `파일 전송`을 클릭합니다.</br></br>
-## 파일 로딩 및 결과 
 
-![Style Images](https://github.com/BJ-Lim/Cloud/blob/master/captures/demo_04.PNG)</br></br>
+## 파일 로딩
+![Style Images](https://github.com/BJ-Lim/Cloud/blob/master/captures/demo_04.PNG)</br>
+파일 전송이 시작되면, 위와 같이 좌측 하단에 진행 상황이 표시됩니다.</br></br>
+![Style Images](https://github.com/BJ-Lim/Cloud/blob/master/captures/demo_05.PNG)</br>
+웹 서버에서 처리가 모두 끝나면 위와 같이 다운로드가 자동으로 진행됩니다.</br></br>
 
-![Style Images](https://github.com/BJ-Lim/Cloud/blob/master/captures/demo_05.PNG)</br></br>
-
+## 결과
+1. Portrait of Dora Maar, Pablo Picasso</br>
 ![Style Images](https://github.com/BJ-Lim/Cloud/blob/master/captures/demo_07_2.png)</br></br>
-
-웹 서버의 주소가 나오며 응답을 기다리라는 말이 나온 후, 파일 결과창이 나옵니다.</br>
-그 파일을 클릭하시면 결과를 보실 수 있습니다.
-
-#### (1)첫 번째 명화 이미지(THE STARRY NIGHT, VINCENT VAN GOGH) </br>
-![Style Images](https://github.com/BJ-Lim/Cloud/blob/master/captures/demo_07_2.png)</br></br>
-
-#### (2)두 번째 명화 이미지(POTRAIT OF DORA MAAR, PABLO PICASSO) </br>
-![Style Images](https://github.com/BJ-Lim/Cloud/blob/master/captures/demo_08_1.png)</br></br>
-
-#### (3)세 번째 명화 이미지(RAIN PRINCESS, LEONID AFRAMOV) </br>
+2. Rain Princess, Leonid Aframov</br>
+![Style Images](https://github.com/BJ-Lim/Cloud/blob/master/captures/demo_08_2.png)</br></br>
+3. The Starry Night, Vincent van Gogh</br>
 ![Style Images](https://github.com/BJ-Lim/Cloud/blob/master/captures/demo_09_2.png)</br></br>
-
-각각의 명화이미지를 자신의 사진과 합성하여 보여줍니다. </br>
-마음에 드는 사진을 선택하여 갖고계시면 됩니다.
 
 ## 그 외의 웹 페이지 기능(Our git, Reference)
 #### Our git
