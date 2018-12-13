@@ -19,7 +19,7 @@
   ![Style Images](https://github.com/BJ-Lim/Cloud/blob/master/captures/move_03.JPG)</br></br>
   
   ```sample.jsp```는 임의의 사진입니다.</br>
-  fast-transfer에 관련된 파일은 [여기](https://github.com/ShafeenTejani/fast-style-transfer/blob/master/README.md)에서 받을 수 있습니다.</br>
+  fast-style-transfer에 관련된 파일은 [여기](https://github.com/ShafeenTejani/fast-style-transfer/blob/master/README.md)에서 받을 수 있습니다.</br>
 
 4. 폴더를 전송합니다. 명령어는 다음과 같습니다.
   ```
