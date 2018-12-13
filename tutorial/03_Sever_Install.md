@@ -22,6 +22,7 @@ Apache2라는 웹 서버를 설치하기전에 현재 서버에 설치된 패키
 
 <div>
   <img width="400" src="https://user-images.githubusercontent.com/30786827/49924740-64ba2500-fefa-11e8-8b7a-946b4f2b46e3.png">
+  
   <img width="400" src="https://user-images.githubusercontent.com/30786827/49924916-cf6b6080-fefa-11e8-97cb-e886d8b4d35e.jpg">
 </div>
 
@@ -60,7 +61,7 @@ Apache2라는 웹 서버를 설치하기전에 현재 서버에 설치된 패키
 웹 서버에서 다국어 처리 모듈을 설치합니다.
 
 <div>
-  <img width="400" src="https://user-images.githubusercontent.com/30786827/49924740-64ba2500-fefa-11e8-8b7a-946b4f2b46e3.png">
+  <img width="400" src="https://user-images.githubusercontent.com/30786827/49925071-40127d00-fefb-11e8-9c00-fd297a24a121.jpg">
 </div>
 <div>
   <img width="400" src="https://user-images.githubusercontent.com/30786827/49924740-64ba2500-fefa-11e8-8b7a-946b4f2b46e3.png">
