@@ -44,4 +44,4 @@ sudo wget https://raw.githubusercontent.com/BJ-Lim/Cloud/master/code/upload.php 
 ```
 
 ## 다음
-3. [웹 서버 설치](https://github.com/BJ-Lim/Cloud/blob/master/tutorial/03_Sever_Install.md)
+4. [웹 서버 설치](https://github.com/BJ-Lim/Cloud/blob/master/tutorial/04_set_envs.md)
