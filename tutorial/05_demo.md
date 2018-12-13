@@ -29,20 +29,17 @@
 
 ## 파일 로딩 및 결과
 
-<div>
-  <img width="600" src="https://user-images.githubusercontent.com/30786827/49931476-43613500-ff0a-11e8-9499-b90bfb352ebe.PNG">
-</div>
 
 <div>
   <img width="600" src="https://user-images.githubusercontent.com/30786827/49931472-42c89e80-ff0a-11e8-91a9-209770a55902.PNG">
 </div>
 
 <div>
-  <img width="600" src="https://user-images.githubusercontent.com/30786827/49931476-43613500-ff0a-11e8-9499-b90bfb352ebe.PNG">
+  <img width="600" src="https://user-images.githubusercontent.com/30786827/49931481-46f4bc00-ff0a-11e8-812e-396eb3f9e50c.PNG">
 </div>
 
 <div>
-  <img width="600" src="https://user-images.githubusercontent.com/30786827/49931481-46f4bc00-ff0a-11e8-812e-396eb3f9e50c.PNG">
+  <img width="600" src="https://user-images.githubusercontent.com/30786827/49931492-4cea9d00-ff0a-11e8-886a-ad617f5b9bb0.jpg">
 </div>
 
 웹 서버의 주소가 나오며 응답을 기다리라는 말이 나온 후, 파일 결과창이 나옵니다. 그 파일을 클릭하시면 결과를 보실 수 있습니다.
@@ -50,8 +47,9 @@
 ## 명화 이미지 데모
 
 <div>
-  <img width="600" src="https://user-images.githubusercontent.com/30786827/49931481-46f4bc00-ff0a-11e8-812e-396eb3f9e50c.PNG">
+  <img width="600" src="https://user-images.githubusercontent.com/30786827/49931484-49efac80-ff0a-11e8-9b3a-4f3c5025894d.png">
 </div>
+
 이 화면에서 명화 이미지를 선택할 수 있습니다.
 
 ## 첫 번째 명화 이미지(THE STARRY NIGHT, VINCENT VAN GOGH)
