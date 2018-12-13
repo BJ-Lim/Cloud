@@ -76,15 +76,13 @@ Apache2라는 웹 서버를 설치하기전에 현재 서버에 설치된 패키
   <img width="400" src="https://user-images.githubusercontent.com/30786827/49925079-443e9a80-fefb-11e8-8bf2-74f9e9497c6a.jpg">
 </div>
 
-<div>
-  <img width="400" src="https://user-images.githubusercontent.com/30786827/49925080-456fc780-fefb-11e8-9883-e798adb4deb7.jpg">
-</div>
-
 이 명령어를 사용하여 사용하고 싶은 모듈을 설치하면 됩니다.
 
+
 적용을 하기 위해 아파치를 재 시작 합니다. 그 다음 php 버전을 확인합니다.
+
 <div>
-  <img width="400" src="https://user-images.githubusercontent.com/30786827/49925081-46a0f480-fefb-11e8-9c06-10e44b941f1c.jpg">
+  <img width="400" src="https://user-images.githubusercontent.com/30786827/49925080-456fc780-fefb-11e8-9883-e798adb4deb7.jpg">
 </div>
 
 그 다음으로 php 권한을 설정합니다.
@@ -93,30 +91,42 @@ Apache2라는 웹 서버를 설치하기전에 현재 서버에 설치된 패키
 이 세팅을 하면 shell의 권한, stfp의 권한 web의 권한이 동일하게 취급되며 보안도 좋게 됩니다.
 
 <div>
-  <img width="400" src="https://user-images.githubusercontent.com/30786827/49925082-47398b00-fefb-11e8-8ca0-60403bc64ea1.jpg">
+  <img width="400" src="https://user-images.githubusercontent.com/30786827/49925081-46a0f480-fefb-11e8-9c06-10e44b941f1c.jpg">
 </div>
+
 <div>
-  <img width="400" src="https://user-images.githubusercontent.com/30786827/49925083-47d22180-fefb-11e8-8caa-5e9107fabafe.jpg">
+  <img width="400" src="https://user-images.githubusercontent.com/30786827/49925082-47398b00-fefb-11e8-8ca0-60403bc64ea1.jpg">
 </div>
 
 그 다음으로 웹페이지에서 파일업로드 구현을 할 시 이 확장자 파일을 제대로 막아주지 못하면 사이트가 위험해지므로
 .php를 제외한 나머지의 접근을 차단해야 합니다.
+
+<div>
+  <img width="400" src="https://user-images.githubusercontent.com/30786827/49925083-47d22180-fefb-11e8-8caa-5e9107fabafe.jpg">
+</div>
+
 <div>
   <img width="400" src="https://user-images.githubusercontent.com/30786827/49925085-486ab800-fefb-11e8-9a6d-2f216ffe517e.jpg">
 </div>
+
+접근을 막기 위해 중간에 코드를 추가합니다.
+
 <div>
   <img width="400" src="https://user-images.githubusercontent.com/30786827/49925088-49034e80-fefb-11e8-91e1-db1ed49b7c65.jpg">
 </div>
 
-접근을 막기 위해 중간에 코드를 추가합니다.
 <div>
   <img width="400" src="https://user-images.githubusercontent.com/30786827/49925089-499be500-fefb-11e8-92cb-2ac47b3172ad.jpg">
 </div>
+
+적용을 위해 아파치를 재 시작합니다.
+
 <div>
   <img width="400" src="https://user-images.githubusercontent.com/30786827/49925092-4bfe3f00-fefb-11e8-9a23-765b26066ed3.jpg">
 </div>
 
-적용을 위해 아파치를 재 시작합니다.
+그 다음, 퍼블릭 ip에 외부에서도 접속을 할 수 있게 아마존 인스턴스에서 포트 추가를 하고 설정해줍니다.
+
 <div>
   <img width="400" src="https://user-images.githubusercontent.com/30786827/49925094-4c96d580-fefb-11e8-8690-a4f98755b483.jpg">
 </div>
