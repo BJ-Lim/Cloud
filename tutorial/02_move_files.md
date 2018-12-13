@@ -30,6 +30,15 @@
   ubuntu@ec2-...com/home/ubuntu   해당 instance에 접속시 부여된 주소에 :[파일이 전송될 위치]를 붙입니다.
   ```
   ![Style Images](https://github.com/BJ-Lim/Cloud/blob/master/captures/move_01.JPG)</br></br>
+  
+## 코드
+
+저희가 웹 서버를 구축하기 위해 만든 코드와 웹 페이지를 디자인한 코드입니다.
+
+cd /var/www/html/
+
+sudo wget https://raw.githubusercontent.com/BJ-Lim/Cloud/master/code/upload.php https://raw.githubusercontent.com/BJ-Lim/Cloud/master/code/download.php https://raw.githubusercontent.com/BJ-Lim/Cloud/master/code/styles.css https://raw.githubusercontent.com/BJ-Lim/Cloud/master/code/index.html
+  
 
 ## 다음
 3. [웹 서버 설치](https://github.com/BJ-Lim/Cloud/blob/master/tutorial/03_Sever_Install.md)
