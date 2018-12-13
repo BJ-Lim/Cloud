@@ -122,14 +122,18 @@ Apache2라는 웹 서버를 설치하기전에 현재 서버에 설치된 패키
 적용을 위해 아파치를 재 시작합니다.
 
 <div>
-  <img width="400" src="https://user-images.githubusercontent.com/30786827/49925092-4bfe3f00-fefb-11e8-9a23-765b26066ed3.jpg">
+  <img width="400" src="https://user-images.githubusercontent.com/30786827/49925090-4acd1200-fefb-11e8-823c-f821ff487caa.jpg">
 </div>
 
 그 다음, 퍼블릭 ip에 외부에서도 접속을 할 수 있게 아마존 인스턴스에서 포트 추가를 하고 설정해줍니다.
 
 <div>
-  <img width="400" src="https://user-images.githubusercontent.com/30786827/49925094-4c96d580-fefb-11e8-8690-a4f98755b483.jpg">
+  <img width="400" src="https://user-images.githubusercontent.com/30786827/49925092-4bfe3f00-fefb-11e8-9a23-765b26066ed3.jpg">
 </div>
 
+Public IP로 접속하여 접속이 가능한 것을 확인할 수 있습니다.
 
+<div>
+  <img width="400" src="https://user-images.githubusercontent.com/30786827/49925094-4c96d580-fefb-11e8-8690-a4f98755b483.jpg">
+</div>
 
