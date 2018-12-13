@@ -20,9 +20,9 @@
 
 ## 파일 로딩 및 결과 
 
-![Style Images](https://github.com/BJ-Lim/Cloud/blob/master/captures/demo_04.png)</br></br>
+![Style Images](https://github.com/BJ-Lim/Cloud/blob/master/captures/demo_04.PNG)</br></br>
 
-![Style Images](https://github.com/BJ-Lim/Cloud/blob/master/captures/demo_05.png)</br></br>
+![Style Images](https://github.com/BJ-Lim/Cloud/blob/master/captures/demo_05.PNG)</br></br>
 
 ![Style Images](https://github.com/BJ-Lim/Cloud/blob/master/captures/demo_07_2.png)</br></br>
 
