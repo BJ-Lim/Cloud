@@ -65,7 +65,7 @@
 #### (2)두 번째 명화 이미지(POTRAIT OF DORA MAAR, PABLO PICASSO)
 
 <div>
-  <img width="600" src="https://user-images.githubusercontent.com/30786827/49932073-8079f700-ff0b-11e8-9c84-456caa424291.PNG">
+  <img width="600" src="https://user-images.githubusercontent.com/30786827/49933499-1e22f580-ff0f-11e8-87f3-47796f4724a6.PNG">
 </div>
 
 <div>
@@ -89,7 +89,7 @@
 #### Our git
 
 <div>
-  <img width="600" src="https://user-images.githubusercontent.com/30786827/49931509-56740500-ff0a-11e8-922e-f9a35cf764d9.jpg">
+  <img width="600" src="https://user-images.githubusercontent.com/30786827/49933225-6c83c480-ff0e-11e8-9f33-87805c4b0e5a.png">
 </div>
 
 Our git이라는 버튼을 누르시면, 저희 클라우드 컴퓨팅 3팀 프로젝트의 git hub 홈페이지로 이동을 하게 됩니다.
@@ -97,7 +97,7 @@ Our git이라는 버튼을 누르시면, 저희 클라우드 컴퓨팅 3팀 프�
 #### reference
 
 <div>
-  <img width="600" src="https://user-images.githubusercontent.com/30786827/49931509-56740500-ff0a-11e8-922e-f9a35cf764d9.jpg">
+  <img width="600" src="https://user-images.githubusercontent.com/30786827/49933226-6db4f180-ff0e-11e8-9469-68238257649c.png">
 </div>
 
 reference 이라는 버튼을 누르시면, 저희가 사용한 fase-style-transfer 에 대해 참고하실 수 있습니다.
