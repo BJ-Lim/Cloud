@@ -30,3 +30,6 @@
   ubuntu@ec2-...com/home/ubuntu   해당 instance에 접속시 부여된 주소에 :[파일이 전송될 위치]를 붙입니다.
   ```
   ![Style Images](https://github.com/BJ-Lim/Cloud/blob/master/captures/move_01.JPG)</br></br>
+
+## 다음
+3. [환경변수 설정하기](https://github.com/BJ-Lim/Cloud/blob/master/tutorial/03_set_envs.md)
