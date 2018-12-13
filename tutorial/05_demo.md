@@ -9,7 +9,7 @@
 파일선택을 누르면 위와 같이 파일을 선택할 수 있습니다. </br></br>
 ![Style Images](https://github.com/BJ-Lim/Cloud/blob/master/captures/demo_02.png)</br>
 사진을 선택하고 `열기` 버튼을 클릭합니다.</br></br>
-![Style Images](https://github.com/BJ-Lim/Cloud/blob/master/captures/demo_06.png)</br>
+![Style Images](https://github.com/BJ-Lim/Cloud/blob/master/captures/demo_select_01.png)</br>
 원하는 스타일의 명화를 선택합니다.</br></br>
 ![Style Images](https://github.com/BJ-Lim/Cloud/blob/master/captures/demo_03.png)</br>
 `파일 전송`을 클릭합니다.</br></br>
