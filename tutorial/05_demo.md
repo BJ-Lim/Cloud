@@ -52,61 +52,54 @@
 
 이 화면에서 명화 이미지를 선택할 수 있습니다.
 
-## 첫 번째 명화 이미지(THE STARRY NIGHT, VINCENT VAN GOGH)
+#### (1)첫 번째 명화 이미지(THE STARRY NIGHT, VINCENT VAN GOGH)
+
 <div>
   <img width="600" src="https://user-images.githubusercontent.com/30786827/49932252-e797ab80-ff0b-11e8-8c99-fbf6a1579f4a.PNG">
 </div>
 
 <div>
-  <img width="600" src="https://user-images.githubusercontent.com/30786827/49931481-46f4bc00-ff0a-11e8-812e-396eb3f9e50c.PNG">
+  <img width="600" src="https://user-images.githubusercontent.com/30786827/49931492-4cea9d00-ff0a-11e8-886a-ad617f5b9bb0.jpg">
 </div>
 
-## 두 번째 명화 이미지(POTRAIT OF DORA MAAR, PABLO PICASSO)
+#### (2)두 번째 명화 이미지(POTRAIT OF DORA MAAR, PABLO PICASSO)
+
 <div>
   <img width="600" src="https://user-images.githubusercontent.com/30786827/49932073-8079f700-ff0b-11e8-9c84-456caa424291.PNG">
-</div>
-
-<div>
-  <img width="600" src="https://user-images.githubusercontent.com/30786827/49931481-46f4bc00-ff0a-11e8-812e-396eb3f9e50c.PNG">
-</div>
-
-## 세 번째 명화 이미지(RAIN PRINCESS, LEONID AFRAMOV)
-<div>
-  <img width="600" src="https://user-images.githubusercontent.com/30786827/49931492-4cea9d00-ff0a-11e8-886a-ad617f5b9bb0.jpg">
-</div>
-ex)gif
-
-
-ex)jpg
-
-<div>
-  <img width="600" src="https://user-images.githubusercontent.com/30786827/49931481-46f4bc00-ff0a-11e8-812e-396eb3f9e50c.PNG">
-</div>
-
-ex)png
-
-<div>
-  <img width="600" src="https://user-images.githubusercontent.com/30786827/49931492-4cea9d00-ff0a-11e8-886a-ad617f5b9bb0.jpg">
-</div>
-
-<div>
-  <img width="600" src="https://user-images.githubusercontent.com/30786827/49931484-49efac80-ff0a-11e8-9b3a-4f3c5025894d.png">
 </div>
 
 <div>
   <img width="600" src="https://user-images.githubusercontent.com/30786827/49931501-53791480-ff0a-11e8-9173-4f795dd8006f.jpg">
 </div>
 
+#### (3)세 번째 명화 이미지(RAIN PRINCESS, LEONID AFRAMOV)
+
 <div>
-  <img width="600" src="https://user-images.githubusercontent.com/30786827/49931514-5a078c00-ff0a-11e8-8663-90f0a52457f4.PNG">
+  <img width="600" src="https://user-images.githubusercontent.com/30786827/49932073-8079f700-ff0b-11e8-9c84-456caa424291.PNG">
 </div>
 
 <div>
   <img width="600" src="https://user-images.githubusercontent.com/30786827/49931509-56740500-ff0a-11e8-922e-f9a35cf764d9.jpg">
 </div>
 
+각각의 명화이미지를 자신의 사진과 합성하여 보여줍니다. 마음에 드는 사진을 선택하여 갖고계시면 됩니다.
 
-파일이 출력되서 저장된 파일을 확인 해 보면 알 수 있듯이,
-파일 확장자는 이미지 형식이라면 어떤 것이라도 결과를 그 확장자에 맞게 반환을 해줍니다.
+## 그 외의 웹 페이지 기능(Our git, reference)
+
+#### Our git
+
+<div>
+  <img width="600" src="https://user-images.githubusercontent.com/30786827/49931509-56740500-ff0a-11e8-922e-f9a35cf764d9.jpg">
+</div>
+
+Our git이라는 버튼을 누르시면, 저희 클라우드 컴퓨팅 3팀 프로젝트의 git hub 홈페이지로 이동을 하게 됩니다.
+
+#### reference
+
+<div>
+  <img width="600" src="https://user-images.githubusercontent.com/30786827/49931509-56740500-ff0a-11e8-922e-f9a35cf764d9.jpg">
+</div>
+
+reference 이라는 버튼을 누르시면, 저희가 사용한 fase-style-transfer 에 대해 참고하실 수 있습니다.
 
 
