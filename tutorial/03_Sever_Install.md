@@ -143,4 +143,6 @@ Public IP로 접속하여 접속이 가능한 것을 확인할 수 있습니다.
   <img width="400" src="https://user-images.githubusercontent.com/30786827/49925094-4c96d580-fefb-11e8-8690-a4f98755b483.jpg">
 </div>
 
+## 다음
 
+4. [서버 환경변수 설정](https://github.com/BJ-Lim/Cloud/blob/master/tutorial/04_set_envs.md)
