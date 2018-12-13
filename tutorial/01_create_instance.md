@@ -31,19 +31,19 @@ AWS 서비스의 EC2 항목으로 들어갑니다.
 ![Style Images](https://github.com/BJ-Lim/Cloud/blob/master/captures/Select_AMI.png)</br>
 좌측 메뉴에서 'AWS Marketplace'를 선택하고 'machine learning ami'를 검색하여 'Deep Learning AMI (Ubuntu)'를 선택합니다.
 
-![Style Images](https://github.com/BJ-Lim/Cloud/blob/master/captures/instance_03_3.PNG)</br>
+![Style Images](https://github.com/BJ-Lim/Cloud/blob/master/captures/instance_03_t2.PNG)</br>
 인스턴스 유형을 선택하고 아래의 검토 및 시작 버튼을 클릭합니다.
 
-![Style Images](https://github.com/BJ-Lim/Cloud/blob/master/captures/instance_08_2.PNG)</br>
+![Style Images](https://github.com/BJ-Lim/Cloud/blob/master/captures/instance_08_t2.PNG)</br>
 검토화면에서 자신이 선택한 인스턴스와 AMI가 맞는지 확인하고 시작버튼을 클릭니다.
 
-![Style Images](https://github.com/BJ-Lim/Cloud/blob/master/captures/instance_09_2.PNG)</br>
+![Style Images](https://github.com/BJ-Lim/Cloud/blob/master/captures/instance_09_t2.PNG)</br>
 키 페어 선택 화면에서 기존 키 페어 선택 후 이전단계에서 생성한 키 페어를 선택합니다.
 
 ![Style Images](https://github.com/BJ-Lim/Cloud/blob/master/captures/instance_10.PNG)</br>
 인스턴스 시작 화면에서 인스턴스 보기 버튼을 클릭니다.
 
-![Style Images](https://github.com/BJ-Lim/Cloud/blob/master/captures/instance_11.PNG)</br>
+![Style Images](https://github.com/BJ-Lim/Cloud/blob/master/captures/instance_11_t2.PNG)</br>
 인스턴스 관리 화면입니다.</br>
 인스턴스 상태가 running이 되면 인스턴스가 작동하고 있는 것입니다.</br>
 인스턴스에 접속하기 위해서는 주소가 필요합니다.</br>
