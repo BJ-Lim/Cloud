@@ -94,6 +94,10 @@
 
 Our git이라는 버튼을 누르시면, 저희 클라우드 컴퓨팅 3팀 프로젝트의 git hub 홈페이지로 이동을 하게 됩니다.
 
+<div>
+  <img width="600" src="https://user-images.githubusercontent.com/30786827/49933628-7eb23280-ff0f-11e8-9e64-772530215d55.PNG">
+</div>
+
 #### reference
 
 <div>
@@ -101,5 +105,10 @@ Our git이라는 버튼을 누르시면, 저희 클라우드 컴퓨팅 3팀 프�
 </div>
 
 reference 이라는 버튼을 누르시면, 저희가 사용한 fase-style-transfer 에 대해 참고하실 수 있습니다.
+
+<div>
+  <img width="600" src="https://user-images.githubusercontent.com/30786827/49933629-7f4ac900-ff0f-11e8-88e0-259c49005fb1.PNG">
+</div>
+
 
 
