@@ -12,8 +12,8 @@
 제안서, 보고서, 최종 PPT는 다음과 같습니다.</br>
 - [제안서](https://github.com/BJ-Lim/Cloud/blob/master/reports/proposal.md)
 - [중간보고서](https://github.com/BJ-Lim/Cloud/blob/master/reports/%5B600003%20CC%5D%20Project%20Week%202-%20Report%20(3%ED%8C%80)%20v1.pdf)
-- (작성중)[최종보고서]()
-- (작성중)[최종PPT]()
+- [최종보고서](https://github.com/BJ-Lim/Cloud/blob/master/reports/%5B600003%20CC%5D%20Project%20Week%203-%20Final%20Report%20(3%ED%8C%80)%20v1.pdf)
+- [최종PPT](https://github.com/BJ-Lim/Cloud/blob/master/reports/%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C%EB%B0%9C%ED%91%9C(%EC%B5%9C%EC%A2%85)ppt.pptx)
 
 ## 회의록
 - [1차 회의](https://github.com/BJ-Lim/Cloud/blob/master/minutes/first_minutes.md) : 2018.11.29(목) 22:00~23:00 / 카카오톡 회의
