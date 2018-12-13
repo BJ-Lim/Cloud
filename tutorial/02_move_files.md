@@ -33,16 +33,15 @@
   
 ## 코드
 
-저희가 웹 서버를 구축하기 위해 만든 코드와 웹 페이지를 디자인한 코드입니다.
-저희의 가상서버에서 이 명령어를 이용하여 보실 수 있습니다.
+웹 서버를 구축하기 위해 우리가 만든 코드를 서버로 옮겨야 합니다. 다음 명령을 실행합니다.
 
-cd /var/www/html/</br>
-sudo wget 
-https://raw.githubusercontent.com/BJ-Lim/Cloud/master/code/upload.php</br>
-https://raw.githubusercontent.com/BJ-Lim/Cloud/master/code/download.php</br>
-https://raw.githubusercontent.com/BJ-Lim/Cloud/master/code/styles.css</br>
-https://raw.githubusercontent.com/BJ-Lim/Cloud/master/code/index.html</br>
-  
+```
+cd /var/www/html/
+```
+이어서 다음 명령을 실행합니다.
+```
+sudo wget https://raw.githubusercontent.com/BJ-Lim/Cloud/master/code/upload.php https://raw.githubusercontent.com/BJ-Lim/Cloud/master/code/download.php</br> https://raw.githubusercontent.com/BJ-Lim/Cloud/master/code/styles.css https://raw.githubusercontent.com/BJ-Lim/Cloud/master/code/index.html
+```
 
 ## 다음
 3. [웹 서버 설치](https://github.com/BJ-Lim/Cloud/blob/master/tutorial/03_Sever_Install.md)
