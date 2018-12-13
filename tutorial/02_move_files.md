@@ -32,4 +32,4 @@
   ![Style Images](https://github.com/BJ-Lim/Cloud/blob/master/captures/move_01.JPG)</br></br>
 
 ## 다음
-3. [웹 서버 설치](https://github.com/BJ-Lim/Cloud/blob/master/tutorial/03_Server_Install.md)
+3. [웹 서버 설치](https://github.com/BJ-Lim/Cloud/blob/master/tutorial/03_Sever_Install.md)
