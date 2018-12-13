@@ -26,7 +26,7 @@ Apache2라는 웹 서버를 설치하기전에 현재 서버에 설치된 패키
   <img width="400" src="https://user-images.githubusercontent.com/30786827/49924916-cf6b6080-fefa-11e8-97cb-e886d8b4d35e.jpg">
 </div>
 
-패키지 갱신과 업그레이드를 했다면 이제 웹 서버를 설치해봅니다.
+패키지 갱신과 업그레이드를 했다면 이제 웹 서버를 설치할 차례입니다.
 
 ### 3.Apache2 설치
 
@@ -91,8 +91,8 @@ php 설치를 한 후 버전이 7.2이므로 7.2를 씁니다.
 그 다음으로 php 권한을 설정합니다.
 
 권한을 설정하는 이유는</br>
-웹 서비스 구동시 발생할 수 있는 Nobody 퍼미션 관련 문제를 해결하기 위해 관련 프로그램을 설치합니다.
-이 세팅을 하면 shell의 권한, stfp의 권한 web의 권한이 동일하게 취급되며 보안도 좋게 됩니다.
+웹 서비스 구동시 발생할 수 있는 Nobody 퍼미션 관련 문제를 해결하기 위함 입니다.
+이 세팅을 하면 shell의 권한, stfp의 권한 web의 권한이 동일하게 취급되며 보안 측면에서도 더 우수합니다.
 
 <div>
   <img width="400" src="https://user-images.githubusercontent.com/30786827/49925081-46a0f480-fefb-11e8-9c06-10e44b941f1c.jpg">
@@ -123,7 +123,7 @@ php 설치를 한 후 버전이 7.2이므로 7.2를 씁니다.
   <img width="400" src="https://user-images.githubusercontent.com/30786827/49925089-499be500-fefb-11e8-92cb-2ac47b3172ad.jpg">
 </div>
 
-적용을 위해 아파치를 재 시작합니다.
+적용을 위해 아파치를 재시작합니다.
 
 ### 5.포트 추가 및 접속 확인
 
