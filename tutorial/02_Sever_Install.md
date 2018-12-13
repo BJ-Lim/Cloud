@@ -103,4 +103,4 @@ Public IP로 접속하여 접속이 가능한 것을 확인할 수 있습니다.
 
 ## 다음
 
-3. [서버 환경변수 설정](https://github.com/BJ-Lim/Cloud/blob/master/tutorial/03_move_files.md)
+3. [](https://github.com/BJ-Lim/Cloud/blob/master/tutorial/03_move_files.md)
